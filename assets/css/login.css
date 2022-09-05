@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Poppins:ital,wght@0,100;0,300;0,400;0,600;1,100;1,600&display=swap')
+
+* {
+    margin: 0;
+}
+
+body{
+    margin: 0 20px;
+}
+.logo{
+    display: block;
+    margin: 17px 0 21px 0;
+    text-align: center;
+}
+
+.hero{
+    margin-bottom: 31px;
+}
+
+.hero > h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #130F49;
+}
+
+.hero > p {
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+color: #130F49;
+opacity: 0.5;
+}
+
+.form-group1{
+    margin-bottom: 21px;
+}
+
+.form-label{
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    color: #130F49;
+    
+}
+
+.form-input{
+    background: #F8F8F8;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    padding: 18px 14px;
+}
+
+.forgot-password{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #5935D5;
+    margin-top: 9px;
+    margin-bottom: 32px;
+}
+
+.forgot-password > a{
+    text-decoration: none;
+}
+
+.submit-btn{
+    background: #FFC44A;
+    border-radius: 5px;
+    border: none;
+    padding: 18px 38px;
+    
+}
