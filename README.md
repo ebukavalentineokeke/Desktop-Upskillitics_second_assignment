@@ -1,2 +1,1 @@
-# Desktop-Upskillitics_second_assignment
 # Upskillitics_second_assignment
